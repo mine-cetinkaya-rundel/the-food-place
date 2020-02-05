@@ -8,4 +8,4 @@ Visualising The G/Food Place
 
 - Lynn Fisher / the food place / data: https://thefoodplace.cafe
 - Claus Wilke / ggtext: https://github.com/wilkelab/ggtext 
-- Emil Hvitfeld / avg color of img: https://www.hvitfeldt.me/blog/real-emojis-in-ggplot2/
+- Emil Hvitfeld / average color of img: https://www.hvitfeldt.me/blog/real-emojis-in-ggplot2/
